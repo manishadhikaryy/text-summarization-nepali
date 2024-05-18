@@ -2,19 +2,17 @@
 
 Text Summarization for Nepali Language is a user-friendly tool that simplifies the process of summarizing Nepali text. It uses a smart technique called TF-IDF (Term Frequency-Inverse Document Frequency) to identify the most important words and phrases in the text.
 
-Here's how it works:
+<h2> Here's how it works: </h2>
 
-TF-IDF Analysis: The tool analyzes the text to find out which words are used frequently in the document but are rare across all documents. These words are considered important for summarizing the content. A High weight in TF-IDF is reached by a high term frequency(in the given document) and a low document frequency of the term in the whole collection of documents (sentences in this context)
+<b> TF-IDF Analysis: </b> The tool analyzes the text to find out which words are used frequently in the document but are rare across all documents. These words are considered important for summarizing the content. A High weight in TF-IDF is reached by a high term frequency(in the given document) and a low document frequency of the term in the whole collection of documents (sentences in this context)
 
-Summarization Algorithm: Based on the TF-IDF scores, the tool selects the most significant sentences from the text. These sentences capture the main points and key ideas, creating a shorter summary while retaining the essential information.
-
-
-Text Summarization for Nepali Language makes it easy to extract the main ideas from Nepali text, helping users save time and understand the content more quickly.
+<b> Summarization Algorithm: </b> Based on the TF-IDF scores, the tool selects the most significant sentences from the text. These sentences capture the main points and key ideas, creating a shorter summary while retaining the essential information.
 
 
 
+<h1> Test </h1>
 
-Text before summarization: 
+<h2> Text before summarization: </h2>
 
 In Nepali: 
 
